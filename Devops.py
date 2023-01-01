@@ -1,1 +1,1 @@
-print('Devops is grate')
+print('Devops is great')
